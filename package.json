@@ -1,0 +1,22 @@
+{
+  "name": "j5-proximity",
+  "version": "1.0.0",
+  "description": "A proximity detector using NodeJS and Johnny-Five.io",
+  "main": "proximity.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pchinjr/j5-proximity.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pchinjr/j5-proximity/issues"
+  },
+  "homepage": "https://github.com/pchinjr/j5-proximity#readme",
+  "dependencies": {
+    "johnny-five": "^0.10.13"
+  }
+}
